@@ -1,0 +1,72 @@
+[
+  {
+    "img":"http://img.800.21cn.com/app/resource/partnerManagePic/1702171441流量来了logo.jpg",
+    "name": "codeGoogle",
+    "title": "谷歌在今年3月21日发布 Android 新系统开发者预览版时已给新系统取名为 Android O",
+    "summary": "Android O 是 Google 发布的第14个新系统版本。 那备受开发者关注的 Android O 有哪些新特性，开发者需要关注哪些问题呢？腾讯云乐固团队结合相关文档对此进行了分析总结，我们一起来看看 Android O 的新特性及开发指南。",
+    "source": "Android 8.0 的这些新特性你都有了解过吗"
+  },
+  {
+    "name": "JavaScript",
+    "img":"http://img.800.21cn.com/app/resource/partnerManagePic/1701181536wukong_2x.png",
+    "title": "抱怨 JS 疲劳就像是在抱怨人类发明了太多解决问题的工具：从邮件到飞机到宇宙飞船。",
+    "summary": "激励我写下这篇文章并且彻底改变我生活的一个原因是 Patrick McKenzie 写的这篇很赞的文章，文章名叫《请不要自称程序员和一些职业生涯建议》。强烈推荐你阅读下上面这篇文章。本文的大部分内容都是基于 Patrick 的那篇关于 JavaScript 生态系统的文章的建议，其中也夹杂了最近几年我在科技行业工作的一些想法",
+    "source": "JavaScript 疲劳终极指南：我们行业的真相"
+  },
+  {
+    "name": "GitHub",
+    "img":"http://img.800.21cn.com/app/resource/partnerManagePic/1609211614标题头像.png",
+    "title": "如果你需要一些安全入门引导，“Awesome Hacking”无疑是最佳选择之一",
+    "summary": "Awesome Hacking”是一个黑客技术清单项目，里边索引了数十个不同方向的技能图谱。大家都知道，GitHub上这类项目非常容易集星（Star），“Awesome Hacking”刚刚突破一万星（这一轮推荐里大概涨了两千星），已经进入安全领域最受关注的GitHub项目阵营",
+    "source": "GitHub 万星推荐：黑客成长技术清单"
+  },
+  {
+    "name": "严振杰",
+    "img":"http://img.800.21cn.com/fpp/resource/images/userHeadPic/201612011112566e6613b1e9cdc391ddfceeb916c0169e.png",
+    "title": "Android8.0系统运行时权限的策略变化和适配方案",
+    "summary": "Android8.0也就是Android O即将要发布了，有很多新特性，目前我们可以通过AndroidStudio3.0 Canary版本下载Android O最新的系统映像的Developer Preview 4版本，Developer Preview 4是Android O正式版推出前的最后一个预览版本，所以它是Android O的候选版本，我们可以使用它来完成开发和测试，让我们的应用平稳过度到Android O",
+    "source": "Android8.0运行时权限策略变化和适配方案"
+  },
+  {
+    "name": "JackJiang",
+    "img":"http://img.800.21cn.com/fpp/resource/images/userHeadPic/2017031614055988f0c95747592053820d854e29c539a6.png",
+    "title": "即时通讯的消息传输安全原理",
+    "summary": "即时通讯（包括IM和消息推送服务）是互联网的重要应用形态之一，安全性一直是开发者需要优先考虑的基础问题，然而一款成功的应用到底要加密什么东西、怎么加密等都是需要在性能、体验和真正的安全性上做好权衡和规划，那么如何正确地理解即时通讯中的加密技术则是重中之中。",
+    "source": "通俗易懂：一篇掌握即时通讯的消息传输安全原理"
+  },
+  {
+    "name": "严振杰",
+    "img":"http://img.800.21cn.com/fpp/resource/images/userHeadPic/icon_brand_logo_3.png",
+    "title": "Java的Fork/Join并发框架",
+    "summary": "前几天有写到整合并发结果的文章，于是联想到了Fork/Join。因为在我看来整合并发结果其实就是Fork/Join中的Join步骤。所以今天我就把自己对Fork/Join一些浅显的理解记录下来。",
+    "source": "浅谈Java的Fork/Join并发框架"
+  },
+  {
+    "name": "weixinjie",
+    "img":"http://img.800.21cn.com/fpp/resource/images/userHeadPic/20160920144915dcb15f491d80497399381c7b043d1789.png",
+    "title": "融合推送sdk的库:RePush",
+    "summary": "推送一直是拉活用户的重要运营手段，相比IOS的系统推送通道，Android的推送实在让开发者头疼。各大厂商均定制自己的Rom,除了微信这种霸王级别的应用，其他的应用想要保活推送通道可谓是难上加难。那对于推送的实时性要求较高的应用怎么办呢？",
+    "source": "一个融合多家推送sdk的库:RePush"
+  },
+  {
+    "name": "皮皮尘啊",
+    "img":"http://img.800.21cn.com/fpp/resource/images/userHeadPic/20170331185456af5747cb04c97dd7ea3939949250957e.png",
+    "title": "Java字节码",
+    "summary": "Java语言本身是由Java语言规格说明（JLS）所定义的，而Java虚拟机的可执行字节码则是由一个完全独立的标准，即Java虚拟机规格说明（通常也被称为VMSpec）所定义的。",
+    "source": "Java字节码忍者禁术"
+  },
+  {
+    "name": "GitHub",
+    "img":"http://img.800.21cn.com/app/resource/partnerManagePic/1609211614标题头像.png",
+    "title": "如果你需要一些安全入门引导，“Awesome Hacking”无疑是最佳选择之一",
+    "summary": "Awesome Hacking”是一个黑客技术清单项目，里边索引了数十个不同方向的技能图谱。大家都知道，GitHub上这类项目非常容易集星（Star），“Awesome Hacking”刚刚突破一万星（这一轮推荐里大概涨了两千星），已经进入安全领域最受关注的GitHub项目阵营",
+    "source": "GitHub 万星推荐：黑客成长技术清单"
+  },
+  {
+    "name": "严振杰",
+    "img":"http://img.800.21cn.com/fpp/resource/images/userHeadPic/201612011112566e6613b1e9cdc391ddfceeb916c0169e.png",
+    "title": "Android8.0系统运行时权限的策略变化和适配方案",
+    "summary": "Android8.0也就是Android O即将要发布了，有很多新特性，目前我们可以通过AndroidStudio3.0 Canary版本下载Android O最新的系统映像的Developer Preview 4版本，Developer Preview 4是Android O正式版推出前的最后一个预览版本，所以它是Android O的候选版本，我们可以使用它来完成开发和测试，让我们的应用平稳过度到Android O",
+    "source": "Android8.0运行时权限策略变化和适配方案"
+  }
+]
